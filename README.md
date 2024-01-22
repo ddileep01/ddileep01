@@ -3,10 +3,6 @@
 <h3 align="center">Love to code and design products.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddileep01&label=Profile%20views&color=0e75b6&style=flat" alt="ddileep01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddileep01" alt="ddileep01" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dileep_layne" target="blank"><img src="https://img.shields.io/twitter/follow/dileep_layne?logo=twitter&style=for-the-badge" alt="dileep_layne" /></a> </p>
 
 - 🌱 I’m currently learning **react native**
@@ -22,6 +18,10 @@
 - 📄 Know about my experiences [https://www.mediafire.com/file/9os3z94uxa34avp/Resume-Dileep-D.pdf/file](https://www.mediafire.com/file/9os3z94uxa34avp/Resume-Dileep-D.pdf/file)
 
 - ⚡ Fun fact **Who needs a Super Hero When you are Full Stack Developer**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddileep01&label=Profile%20views&color=0e75b6&style=flat" alt="ddileep01" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddileep01" alt="ddileep01" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
